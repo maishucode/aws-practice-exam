@@ -1,5 +1,9 @@
 # 🚀 AWS Practice Exams 
-**Master the Cloud with Free Practice Exams & Resources** 
+This GitHub repository provides **four free practice exams** (50 questions each) for major AWS certifications.
+
+For **500+ additional questions** and full-length exam simulations with detailed explanations, visit **[awsxp.com](https://www.awsxp.com)**.
+
+
 
 ## 📝 Overview  
 
@@ -12,7 +16,7 @@
 
 
 
-## 💡 What's Included  
+## 💡 Free Practice Exams
 
 | AWS Certificates                                             | Contents                               |
 | ------------------------------------------------------------ | -------------------------------------- |
