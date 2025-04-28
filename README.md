@@ -21,7 +21,7 @@ For **500+ additional questions** and full-length exam simulations with detailed
 | AWS Certificates                                             | Contents                               |
 | ------------------------------------------------------------ | -------------------------------------- |
 | [aws-certified-cloud-practitioner](https://github.com/maishucode/aws-practice-exam/tree/main/aws-certified-cloud-practitioner) | 🧪 4 Practice Exams (50 Questions Each) |
-| [aws-certified-developer–associate](https://github.com/maishucode/aws-practice-exam/tree/main/aws-certified-developer–associate) | 🧪 4 Practice Exams (50 Questions Each) |
+| [aws-certified-developer-associate](https://github.com/maishucode/aws-practice-exam/tree/main/aws-certified-developer-associate) | 🧪 4 Practice Exams (50 Questions Each) |
 | [aws-certified-solutions-architect-associate](https://github.com/maishucode/aws-practice-exam/tree/main/aws-certified-solutions-architect-associate) | 🧪 4 Practice Exams (50 Questions Each) |
 | [aws-certified-solutions-architect-professional](https://github.com/maishucode/aws-practice-exam/tree/main/aws-certified-solutions-architect-professional) | 🧪 4 Practice Exams (50 Questions Each) |
 
